@@ -2,6 +2,11 @@
 
 **`Digital Craftsman (Web Warrior ⚔️)`**
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Warrior;React+%7C+TypeScript+%7C+Next.js;Clean+Code+%26+Good+UX&center=true&width=500" />
+</p>
+
+
 I'm a frontend / full-stack developer who enjoys turning ideas into clean, fast, and user-friendly web applications.  
 I love working with the React ecosystem, building thoughtful UI, and solving real-world problems with code.
 
@@ -14,25 +19,11 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,tailwind,docker,git,firebase,github,nginx,mongodb)](https://skillicons.dev)
 
-#
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Warrior;React+%7C+TypeScript+%7C+Next.js;Clean+Code+%26+Good+UX&center=true&width=500" />
-</p>
-
-
-### 🔭 What I'm working on
-- Building scalable React applications
-- Improving UI performance & UX
-- Exploring modern frontend tools
-
+---
 
 ### 📫 Employer?
 
-
-
->  Send a raven… or just use links below**
-> 
+>  **🐦‍⬛ Send a raven… or just use links below**
 > 
 > <p>
 >   <a href="mailto:eugenaronskiy@gmail.com">
