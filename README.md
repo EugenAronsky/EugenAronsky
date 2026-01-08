@@ -21,20 +21,14 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 </p>
 
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Web%20Warrior](https://img.shields.io/badge/Web%20Warrior-%E2%9A%94%EF%B8%8F-black)
-
-
 ### 🔭 What I'm working on
 - Building scalable React applications
 - Improving UI performance & UX
 - Exploring modern frontend tools
 
 
-### 📫 How to reach me
-
-📬 Send a raven… or just
+### 📫 Employer?
+🐦‍⬛ Send a raven… or just use links below
 <p>
   <a href="mailto:eugenaronskiy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
