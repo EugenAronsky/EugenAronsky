@@ -25,7 +25,7 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenAronsky&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EugenAronsky&theme=transparent" />
 </p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
