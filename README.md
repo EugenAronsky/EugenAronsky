@@ -10,7 +10,7 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 
 ### Languages and Tools
 
-<img align="left" alt="React" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png">
+<img align="left" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
 
 <!--
 **EugenAronsky/EugenAronsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
