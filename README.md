@@ -10,14 +10,9 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 
 ### 🧰 My Toolbox
 
-**Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind)](https://skillicons.dev)
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,tailwind,docker,git)](https://skillicons.dev)
 
-**Backend**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase)](https://skillicons.dev)
-
-**Tools**
-[![My Skills](https://skillicons.dev/icons?i=git,docker,vercel,aws)](https://skillicons.dev)
 
 <!--
 **EugenAronsky/EugenAronsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
