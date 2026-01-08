@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=300&section=header&text=Oi,%20World!%20I'm%20Eugen&fontSize=60&fontAlignY=40&desc=Frontend%20Web%20Warrior%20•%20React%20•%20Clean%20UI&descAlignY=60" />
-
-
 #
+<img style="position: absolute;" src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=30&section=header&" />
 <pre>
 ███████╗██╗   ██╗ ██████╗ ███████╗███╗   ██╗     █████╗ ██████╗  ██████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗    
 ██╔════╝██║   ██║██╔════╝ ██╔════╝████╗  ██║    ██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔════╝██║ ██╔╝╚██╗ ██╔╝    
