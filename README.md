@@ -5,13 +5,14 @@
 I'm a frontend / full-stack developer who enjoys turning ideas into clean, fast, and user-friendly web applications.  
 I love working with the React ecosystem, building thoughtful UI, and solving real-world problems with code.
 
+I enjoy taking projects from an idea to a polished product, paying attention to details, performance, and usability.  
+Always curious, always learning, and always looking for better ways to build things on the web.
+
 >📍 Haifa, Israel  
 >🎓 B.Sc. in Information Systems & Technologies (2025)
 
-#
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Work+it+harder%2C+make+it+better;Do+it+faster%2C+makes+us+stronger;More+than+ever%2C+hour+after+hour;Work+is+never+over&center=true&width=650&typeSpeed=90&pause=500&color=6f42c1" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Work+it+harder%2C+make+it+better;Do+it+faster%2C+makes+us+stronger;More+than+ever%2C+hour+after+hour;Work+is+never+over&center=true&width=650&typeSpeed=90&pause=500&color=BFDFFF" />
 </p>
 
 ---
