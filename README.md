@@ -32,15 +32,19 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 
 
 > **🟣 🐦‍⬛ Send a raven… or just use links below**
-> <p>
+> 👉 [Download my resume](./Eugen_Aronskiy_Frontend_Developer.pdf)
+
+<p>
   <a href="mailto:eugenaronskiy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/eugen-aronskiy">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="./Eugen_Aronskiy_Frontend_Developer.pdf">
+    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
 </p>
-> 👉 [Download my resume](./Eugen_Aronskiy_Frontend_Developer.pdf)
 
 <!--
 **EugenAronsky/EugenAronsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
