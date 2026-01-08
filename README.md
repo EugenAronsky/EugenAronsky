@@ -1,5 +1,5 @@
 #
-<img style="position: absolute" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=90&section=header&text=👑&fontColor=fff&fontSize=50" />
+<img style="position: absolute" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=90&section=header&text=Digital%20Craftsman%20(Web%20Warrior%20⚔️)&fontColor=fff&fontSize=50" />
 <pre align="center">
 ███████╗██╗   ██╗ ██████╗ ███████╗███╗   ██╗     █████╗ ██████╗  ██████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗    
 ██╔════╝██║   ██║██╔════╝ ██╔════╝████╗  ██║    ██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔════╝██║ ██╔╝╚██╗ ██╔╝    
