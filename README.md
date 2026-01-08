@@ -41,9 +41,10 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
   <a href="https://www.linkedin.com/in/eugen-aronskiy">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="./Eugen_Aronskiy_Frontend_Developer.pdf">
-    <img src="https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=adobeacrobatreader" />
+ <a href="./Eugen_Aronskiy_Frontend_Developer.pdf">
+    <img src="https://img.shields.io/badge/Download-Resume-6f42c1?style=for-the-badge&logo=readthedocs" />
   </a>
+
 </p>
 
 <!--
