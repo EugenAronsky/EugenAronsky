@@ -1,5 +1,5 @@
 #
-<img style="position: absolute;" src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=30&section=header&" />
+<img style="position: absolute;" src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=30&section=header" />
 <pre>
 ███████╗██╗   ██╗ ██████╗ ███████╗███╗   ██╗     █████╗ ██████╗  ██████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗    
 ██╔════╝██║   ██║██╔════╝ ██╔════╝████╗  ██║    ██╔══██╗██╔══██╗██╔═══██╗████╗  ██║██╔════╝██║ ██╔╝╚██╗ ██╔╝    
