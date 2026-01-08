@@ -24,9 +24,6 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
   <img src="https://github-readme-stats.vercel.app/api?username=EugenAronsky&show_icons=true&hide_title=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EugenAronsky&theme=transparent" />
-</p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -39,7 +36,7 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 - Exploring modern frontend tools
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EugenAronsky/EugenAronsky/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 ⚔️ Web Warrior • Clean Code • Good UX
