@@ -1,17 +1,16 @@
-# Eugen Aronsky
-
-**`Digital Craftsman (Web Warrior ⚔️)`**
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Warrior;React+%7C+TypeScript+%7C+Next.js;Clean+Code+%26+Good+UX&center=true&width=500" />
 </p>
 
+# Eugen Aronsky
+
+**`Digital Craftsman (Web Warrior ⚔️)`**
 
 I'm a frontend / full-stack developer who enjoys turning ideas into clean, fast, and user-friendly web applications.  
 I love working with the React ecosystem, building thoughtful UI, and solving real-world problems with code.
 
-📍 Haifa, Israel
-🎓 B.Sc. in Information Systems & Technologies (2025)
+>📍 Haifa, Israel
+>🎓 B.Sc. in Information Systems & Technologies (2025)
 
 ---
 
