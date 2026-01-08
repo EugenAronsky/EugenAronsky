@@ -31,21 +31,20 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 
 
 
-> **🟣 🐦‍⬛ Send a raven… or just use links below**
-> 👉 [Download my resume](./Eugen_Aronskiy_Frontend_Developer.pdf)
-
-<p>
-  <a href="mailto:eugenaronskiy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/eugen-aronskiy">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
- <a href="./Eugen_Aronskiy_Frontend_Developer.pdf">
-    <img src="https://img.shields.io/badge/Download-Resume-6f42c1?style=for-the-badge&logo=readthedocs" />
-  </a>
-
-</p>
+>  Send a raven… or just use links below**
+> 
+> 
+> <p>
+>   <a href="mailto:eugenaronskiy@gmail.com">
+>     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
+>   </a>
+>   <a href="https://www.linkedin.com/in/eugen-aronskiy">
+>     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+>   </a>
+>   <a href="./Eugen_Aronskiy_Frontend_Developer.pdf">
+>     <img src="https://img.shields.io/badge/Download-CV-6f42c1?style=for-the-badge&logo=readthedocs" />
+>   </a>
+> </p>
 
 <!--
 **EugenAronsky/EugenAronsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
