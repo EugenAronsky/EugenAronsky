@@ -52,7 +52,7 @@
 >     <img src="https://img.shields.io/badge/Download-CV-6f42c1?style=for-the-badge&logo=readthedocs" />
 >   </a>
 > </p>
-
+<img style="position: absolute" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=100&section=footer" />
 <!--
 **EugenAronsky/EugenAronsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
