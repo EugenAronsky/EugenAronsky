@@ -34,14 +34,12 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 
 ### 📫 How to reach me
 
-📬 Send a raven… or just email me: **eugenaronskiy@gmail.com**  
-
-⚔️ Always open to interesting projects and challenges
+📬 Send a raven… or just
 <p>
   <a href="mailto:eugenaronskiy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="www.linkedin.com/in/eugen-aronskiy">
+  <a href="https://www.linkedin.com/in/eugen-aronskiy">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
