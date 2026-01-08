@@ -27,8 +27,8 @@
 </p>
 
 > <p>
->  <img src="https://img.shields.io/badge/Location-Haifa%2C%20Israel-0366d6?style=for-the-badge&logo=google-maps" />  <br/>
 >  <img src="https://img.shields.io/badge/Degree-B.Sc in Information Systems & Technologies.%202025-2ea44f?style=for-the-badge&logo=graduation-cap" />  
+>  <img src="https://img.shields.io/badge/Location-Haifa%2C%20Israel-0366d6?style=for-the-badge&logo=google-maps" />  <br/>
 > </p>
 
 ---
