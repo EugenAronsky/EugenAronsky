@@ -20,10 +20,6 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Warrior;React+%7C+TypeScript+%7C+Next.js;Clean+Code+%26+Good+UX&center=true&width=500" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EugenAronsky&show_icons=true&hide_title=true" />
-</p>
-
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -36,13 +32,18 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 - Exploring modern frontend tools
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EugenAronsky&theme=github-compact" />
-</p>
+### 📫 How to reach me
 
-<p align="center">
-⚔️ Web Warrior • Clean Code • Good UX
+📬 Send a raven… or just email me: **eugenaronskiy@gmail.com**  
+<p>
+  <a href="mailto:eugenaronskiy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINK/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
+⚔️ Always open to interesting projects and challenges
 
 <!--
 **EugenAronsky/EugenAronsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
