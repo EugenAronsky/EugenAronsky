@@ -9,20 +9,20 @@
 I'm a frontend / full-stack developer who enjoys turning ideas into clean, fast, and user-friendly web applications.  
 I love working with the React ecosystem, building thoughtful UI, and solving real-world problems with code.
 
->📍 Haifa, Israel
->🎓 B.Sc. in Information Systems & Technologies (2025)
+>📍 Haifa, Israel  
+>🎓 B.Sc. in Information Systems & Technologies (2025)  
 
----
+--
 
 ### 🧰 My Toolbox
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,tailwind,docker,git,firebase,github,nginx,mongodb)](https://skillicons.dev)
 
----
+--
 
 ### 📫 Employer?
 
->  **🐦‍⬛ Send a raven… or just use links below**
+> **🐦‍⬛ Send a raven… or just use links below 👇**
 > 
 > <p>
 >   <a href="mailto:eugenaronskiy@gmail.com">
