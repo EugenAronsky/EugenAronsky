@@ -36,7 +36,9 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 - Exploring modern frontend tools
 
 
-![snake](https://github.com/EugenAronsky/EugenAronsky/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />
+</p>
 
 <p align="center">
 ⚔️ Web Warrior • Clean Code • Good UX
