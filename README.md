@@ -26,12 +26,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Work+it+harder%2C+make+it+better;Do+it+faster%2C+makes+us+stronger;More+than+ever%2C+hour+after+hour;Work+is+never+over&center=true&width=650&typeSpeed=90&pause=500&color=BFDFFF" />
 </p>
 
->📍 Haifa, Israel  
->🎓 B.Sc. in Information Systems & Technologies (2025)
 > <p align="center">
->  <img src="https://img.shields.io/badge/Location-Haifa%2C%20Israel-0366d6?style=for-the-badge&logo=google-maps" />
->  <img src="https://img.shields.io/badge/Degree-B.Sc in Information Systems & Technologies.%202025-2ea44f?style=for-the-badge&logo=graduation-cap" />
+>  <img src="https://img.shields.io/badge/📍 Location-Haifa%2C%20Israel-0366d6?style=for-the-badge&logo=google-maps" />  
+>  <img src="https://img.shields.io/badge/🎓 Degree-B.Sc in Information Systems & Technologies.%202025-2ea44f?style=for-the-badge&logo=graduation-cap" />  
 > </p>
+
 ---
 
 ### 🧰 My Toolbox
