@@ -28,10 +28,10 @@
 
 >📍 Haifa, Israel  
 >🎓 B.Sc. in Information Systems & Technologies (2025)
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Haifa%2C%20Israel-0366d6?style=for-the-badge&logo=google-maps" />
-  <img src="https://img.shields.io/badge/Degree-B.Sc.%202025-2ea44f?style=for-the-badge&logo=graduation-cap" />
-</p>
+> <p align="center">
+>  <img src="https://img.shields.io/badge/Location-Haifa%2C%20Israel-0366d6?style=for-the-badge&logo=google-maps" />
+>  <img src="https://img.shields.io/badge/Degree-B.Sc in Information Systems & Technologies.%202025-2ea44f?style=for-the-badge&logo=graduation-cap" />
+> </p>
 ---
 
 ### 🧰 My Toolbox
