@@ -21,11 +21,11 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EugenAronsky&show_icons=true&hide_title=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugenAronsky&layout=compact" />
 </p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
