@@ -10,7 +10,7 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 
 ### 🧰 My Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,tailwind,docker,git,firebase,shadcn,github,nginx,npm,mongodb,tanstack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,tailwind,docker,git,firebase,github,nginx,mongodb)](https://skillicons.dev)
 
 
 <!--
