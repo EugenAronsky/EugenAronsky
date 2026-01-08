@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Work+it+harder%2C+make+it+better;Do+it+faster%2C+makes+us+stronger;More+than+ever%2C+hour+after+hour;Work+is+never+over&center=true&width=650" />
-</p>>
+  <img src="https://readme-typing-svg.herokuapp.com?
+lines=Work+it+harder%2C+make+it+better;Do+it+faster%2C+makes+us+stronger;More+than+ever%2C+hour+after+hour;Work+is+never+over
+&center=true
+&width=650
+&typeSpeed=90
+&pause=500
+&color=6f42c1" />
+</p>
 
 # Eugen Aronsky
 
