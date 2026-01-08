@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Warrior;React+%7C+TypeScript+%7C+Next.js;Clean+Code+%26+Good+UX&center=true&width=500" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Work+it+harder%2C+make+it+better;Do+it+faster%2C+makes+us+stronger;More+than+ever%2C+hour+after+hour;Work+is+never+over&center=true&width=650&typeSpeed=70&color=6f42c1" />
+</p>>
 
 # Eugen Aronsky
 
@@ -12,13 +12,13 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 >📍 Haifa, Israel  
 >🎓 B.Sc. in Information Systems & Technologies (2025)  
 
---
+---
 
 ### 🧰 My Toolbox
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs,express,tailwind,docker,git,firebase,github,nginx,mongodb)](https://skillicons.dev)
 
---
+---
 
 ### 📫 Employer?
 
