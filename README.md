@@ -37,7 +37,7 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EugenAronsky&theme=github-compact" />
 </p>
 
 <p align="center">
