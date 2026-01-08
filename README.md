@@ -8,9 +8,9 @@ I love working with the React ecosystem, building thoughtful UI, and solving rea
 📍 Haifa, Israel
 🎓 B.Sc. in Information Systems & Technologies (2025)
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
-<img align="left" alt="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **EugenAronsky/EugenAronsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
